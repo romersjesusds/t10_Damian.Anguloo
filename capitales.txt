@@ -1,0 +1,4 @@
+lima-peru
+caracas-venezuela
+montevideo-uruguay
+la paz-bolivia
